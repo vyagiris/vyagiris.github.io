@@ -1,7 +1,7 @@
 ---
 title: "locally importing passwords to firefox"
 date: 2022-08-30T20:46:29+05:30
-draft: true
+draft: false
 ---
 
 **tl;dr Use chrome instead to import csv files and, then use Firefox's in-built import from other browser**  
